@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "testnbdev"
+  site-url: "https://ruxkor.github.io/testnbdev"
+  description: "desc"
+  repo-branch: main
+  repo-url: "https://github.com/ruxkor/testnbdev"
